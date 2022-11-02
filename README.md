@@ -26,7 +26,7 @@
 - selenium must me installed
 - Necessary dependencies must be there in build.gradle folder
 
-## Test Cses 
+## Test Cases 
 - Google Sheet link - https://docs.google.com/spreadsheets/d/1VbKOEo2X0iyxb3Zr7j4GpjocuhnSM1UPtCVYurqUL4U/edit?usp=sharing
 
 ## Report Output
